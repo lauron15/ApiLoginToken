@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "HVaA/XqgKwPofeitPGOQ/SNVNN9WBt9CaXd2dRoIZuw=",
+  "Source": "ApiLoginToken",
+  "BasePath": "_content/ApiLoginToken",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
