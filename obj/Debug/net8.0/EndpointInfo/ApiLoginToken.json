@@ -5,6 +5,18 @@
     "version": "1.0"
   },
   "paths": {
+    "/login": {
+      "post": {
+        "tags": [
+          "ApiLoginToken"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/User": {
       "get": {
         "tags": [

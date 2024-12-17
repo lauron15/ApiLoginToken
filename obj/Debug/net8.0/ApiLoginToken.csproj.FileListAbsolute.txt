@@ -169,4 +169,7 @@ L:\ProjetosDev\ApiLoginToken\ApiLoginToken\ApiLoginToken\obj\Debug\net8.0\refint
 L:\ProjetosDev\ApiLoginToken\ApiLoginToken\ApiLoginToken\obj\Debug\net8.0\ApiLoginToken.pdb
 L:\ProjetosDev\ApiLoginToken\ApiLoginToken\ApiLoginToken\obj\Debug\net8.0\ApiLoginToken.genruntimeconfig.cache
 L:\ProjetosDev\ApiLoginToken\ApiLoginToken\ApiLoginToken\obj\Debug\net8.0\ref\ApiLoginToken.dll
+L:\ProjetosDev\ApiLoginToken\ApiLoginToken\ApiLoginToken\obj\Debug\net8.0\ApiLoginToken.sourcelink.json
+L:\ProjetosDev\ApiLoginToken\ApiLoginToken\ApiLoginToken\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 L:\ProjetosDev\ApiLoginToken\ApiLoginToken\ApiLoginToken\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+L:\ProjetosDev\ApiLoginToken\ApiLoginToken\ApiLoginToken\bin\Debug\net8.0\BCrypt.Net-Next.dll

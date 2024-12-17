@@ -19,6 +19,8 @@ namespace ApiLoginToken.Models
         [Column("Email")]
         public string? Email { get; set; } = string.Empty;
 
+        [Column("roles")]
+        public string[] Roles { get; set; } = new string[] { };
 
     }
 }

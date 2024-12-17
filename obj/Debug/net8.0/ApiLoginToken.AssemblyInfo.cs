@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiLoginToken")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b907ccd89ed1d840f0fb5ced28f8a7c92f1b40f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiLoginToken")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiLoginToken")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
